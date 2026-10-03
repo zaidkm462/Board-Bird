@@ -6,6 +6,16 @@ main UI technology. The game idea is inspired by the Nokia game **Forbidden
 Treasure**, while the implementation, artwork integration, and gameplay code
 are original to this project.
 
+## Video
+
+
+https://github.com/user-attachments/assets/01e3ff33-0e53-4dda-9f38-51cb2afb75a1
+
+
+
+
+
+
 ## Gameplay
 
 Control the bird while it moves through a vertically scrolling board:
